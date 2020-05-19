@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\google drive\school\semestre 8 - campus monterrey\graficas computacionales\tareas\tarea triangulo opengl\openglroot\openglvs\openglvs\main.cpp(20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Generating code
+  1 of 1 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLVS.vcxproj -> D:\Google Drive\SCHOOL\SEMESTRE 8 - CAMPUS MONTERREY\Graficas Computacionales\Tareas\Tarea Triangulo OpenGL\OpenGLRoot\OpenGLVS\Release\OpenGLVS.exe
