@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\obedg\Desktop\development\graficas\OpenGLRoot\OpenGLVS\OpenGLVS\main.cpp(76,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\obedg\Desktop\development\graficas\OpenGLRoot\OpenGLVS\OpenGLVS\main.cpp(76,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\obedg\Desktop\development\graficas\OpenGLRoot\OpenGLVS\OpenGLVS\main.cpp(483,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  OpenGLVS.vcxproj -> C:\Users\obedg\Desktop\development\graficas\OpenGLRoot\OpenGLVS\Debug\OpenGLVS.exe
